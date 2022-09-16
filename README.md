@@ -83,7 +83,7 @@ Then, the Arduino begins to continuously read inputs from laser sensor. If the i
 
 <br>
 
-### *Installatino in the Garage*
+### *Installation in the Garage*
 The LED had to be mounted approximately 19 feet from the Arduino, so I soldered it to a set of longer wires. 
 
 The laser emitter needed to be placed on the other side of the garage door, and wire across the ceiling would have added up to about 30 feet, so I attached the emitter to its own power source across the garage. I set the PSU to supply 5 volts at 30 milliamperes, per the specifications of the laser emitter.
