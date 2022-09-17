@@ -79,7 +79,7 @@ void loop() {
 
 Initially, my program assigns necessary variables, such as the pins on the Arduino where input is received from the modules. Communication is then established between the Arduino and its modules, and the LED is setup using [FastLED library](https://fastled.io/).
 
-Then, the Arduino begins to continuously read inputs from laser sensor. If the input is less than 700, the laser beam is not shining on the sensor and has been interrupted, so the LED turns red. If the input is over 700, the laser is shining on the sensor, and the LED turns green.
+Then, the Arduino begins to continuously read inputs from the laser sensor. If the input is less than 700, the laser beam is not shining on the sensor and has been interrupted, so the LED turns red. If the input is over 700, the laser is shining on the sensor, and the LED turns green.
 
 <br>
 
