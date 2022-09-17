@@ -103,7 +103,7 @@ The point of my bumper protruding the farthest is 2 feet from the ground, so I p
 
 ### *Operation*
 
-The laser beam is interrupted my car's bumper:
+The laser beam is interrupted by my car's bumper:
 
 ![bumper](bumper.jpg)
 
