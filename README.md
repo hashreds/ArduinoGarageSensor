@@ -122,9 +122,9 @@ No more scratches on the bumper!
 ### *Future Improvements*
 
 - A more secure mounting system
-    - Electrical tape is not the best at keeping the laser pointed at a specific spot over long periods of time. The laser especially loses its aim when the operation of the garage door causes the 2x4 plank to shake slightly. 
+    - Electrical tape is not the best at keeping the laser pointed at a specific spot over long periods of time. The laser tends to lose its aim on the sensor when the operation of the garage door causes the 2x4 plank to shake slightly. 
 - Turn down the sensitivity of the sensor
-    - Afternoon sunlight registers at over 700 on the sensor, causing the LED to turn green even if it is interrupted. A direct laser beam tends to produce values over 900, so the code should be changed to reflect this new boundary. 
+    - Afternoon sunlight registers at over 700 on the sensor, causing the LED to turn green even the laser is not shining on the sensor. A direct laser beam tends to produce values over 900, so the code should be changed to reflect this new boundary. 
 
 
 
