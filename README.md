@@ -3,13 +3,13 @@
 
 <br>
 
-### *Idea:*
+### *Idea*
 
-A laser shining directly at a photoresistor is an easy way to detect whether or not an object is blocking the laser's path. Then, an LED light mounted at the front of the garage could indicate whether or not the laser beam is interrupted. If the LED is red, I my bumper is in the way of the garage door, but if the LED is green, the garage door can close without damaging my bumper.
+A laser shining directly at a photoresistor is an easy way to detect whether or not an object is blocking the laser's path. Then, an LED light mounted at the front of the garage could indicate whether or not the laser beam is interrupted. If the LED is red, I know my bumper is in the way of the garage door, but if the LED is green, the garage door can close without damaging my bumper.
 
 <br>
 
-### *Materials:*
+### *Materials*
 <li> Arduino Uno microntroller
 <li> A breadboard
 <li> 22 guage wire
